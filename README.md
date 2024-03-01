@@ -1,4 +1,4 @@
-# miprimerarednuronal
+# miprimeraredneuronal
 
 Practicando creación de redes neuronales, esta es una red neuronal donde se entrena para hacer la conversion de grados Celsius a grados fahrenheit
 
